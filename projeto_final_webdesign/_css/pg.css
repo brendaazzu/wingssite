@@ -1,0 +1,80 @@
+/* LOGO DA NAV */
+
+.logo {
+    width: 425px;
+}
+
+/* Banner */
+
+#imgBanner {
+    height: 400px;
+}
+
+/*Quem Somos*/
+
+#mainQuemSomos{
+    margin-top: 60px;
+    font-size: 20px;
+}
+
+/*Mudar a classe main-title*/
+
+.main-title {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+/*Serviços*/
+
+#blocos {
+
+    margin-bottom: 100px;
+}
+
+.destaque-texto {
+
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.destaque {
+
+    font-size: 20px;
+    font-weight: 400;
+    color: rgb(53, 53, 53);
+    padding: 15px;
+    padding-top: 10px;
+    
+}
+
+.icones {
+
+    color: #000;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+/* FOOTER */
+
+#footer{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, 
+    rgba(190, 49, 24) 100%);
+}
+
+.logo_footer{
+
+    height: 225px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.redondo{
+
+    border-radius: 120px;
+    box-shadow: 1px 1px 1px 1px #000000;
+}
+
